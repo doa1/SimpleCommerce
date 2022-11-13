@@ -1,3 +1,3 @@
 # SimpleCommerce
 
-Just trying out node js
+Just trying out nest js, generated from Amplication
