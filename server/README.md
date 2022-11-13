@@ -1,5 +1,4 @@
-# Getting started with your app
-
+# Getting started with the e-commerce
 ## Available Scripts
 
 In the `server` subdirectory, you can run:
